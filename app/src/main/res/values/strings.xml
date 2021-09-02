@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="login_label_email">E-mail</string>
+    <string name="login_label_password">Senha</string>
+    <string name="login_label_submit">ENTRAR</string>
+    <string name="home_title">ToDoApp - Home</string>
+    <string name="logout">Sair</string>
+</resources>
